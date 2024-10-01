@@ -1,0 +1,5 @@
+[gd_scene format=2]
+
+[node name="hurtboxPlayer" type="Area2D"]
+
+[node name="hurtboxPlayerArea" type="CollisionShape2D" parent="."]
