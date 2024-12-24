@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://sprites/attackicons.png" type="Texture" id=1]
+
+[node name="cardEmpty" type="Node2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+hframes = 10
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Sprite"]
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+margin_left = -13.0
+margin_top = 10.0
+margin_right = 39.0
+margin_bottom = 25.0
+rect_scale = Vector2( 0.553265, 0.582402 )
+text = "10000"

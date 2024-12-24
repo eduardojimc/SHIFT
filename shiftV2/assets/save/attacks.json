@@ -1,0 +1,1122 @@
+{
+  "10000": {
+    "ID": 10000,
+    "name": "blank",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10001": {
+    "ID": 10001,
+    "name": "regularShotSmall",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10002": {
+    "ID": 10002,
+    "name": "regularShotMedium",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10003": {
+    "ID": 10003,
+    "name": "regularShotBig",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10004": {
+    "ID": 10004,
+    "name": "placeholder1",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10005": {
+    "ID": 10005,
+    "name": "placeholder2",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10006": {
+    "ID": 10006,
+    "name": "placeholder3",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10007": {
+    "ID": 10007,
+    "name": "placeholder4",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10008": {
+    "ID": 10008,
+    "name": "placeholder5",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10009": {
+    "ID": 10009,
+    "name": "placeholder6",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10010": {
+    "ID": 10010,
+    "name": "placeholder7",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10011": {
+    "ID": 10011,
+    "name": "placeholder8",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10012": {
+    "ID": 10012,
+    "name": "placeholder9",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10013": {
+    "ID": 10013,
+    "name": "placeholder10",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10014": {
+    "ID": 10014,
+    "name": "placeholder11",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10015": {
+    "ID": 10015,
+    "name": "placeholder12",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10016": {
+    "ID": 10016,
+    "name": "placeholder13",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10017": {
+    "ID": 10017,
+    "name": "placeholder14",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10018": {
+    "ID": 10018,
+    "name": "placeholder15",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10019": {
+    "ID": 10019,
+    "name": "placeholder16",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10020": {
+    "ID": 10020,
+    "name": "placeholder17",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10021": {
+    "ID": 10021,
+    "name": "placeholder18",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10022": {
+    "ID": 10022,
+    "name": "placeholder19",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10023": {
+    "ID": 10023,
+    "name": "placeholder20",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10024": {
+    "ID": 10024,
+    "name": "placeholder21",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10025": {
+    "ID": 10025,
+    "name": "placeholder22",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10026": {
+    "ID": 10026,
+    "name": "placeholder23",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10027": {
+    "ID": 10027,
+    "name": "placeholder24",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10028": {
+    "ID": 10028,
+    "name": "placeholder25",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10029": {
+    "ID": 10029,
+    "name": "placeholder26",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10030": {
+    "ID": 10030,
+    "name": "placeholder27",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10031": {
+    "ID": 10031,
+    "name": "placeholder28",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10032": {
+    "ID": 10032,
+    "name": "placeholder29",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10033": {
+    "ID": 10033,
+    "name": "placeholder30",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10034": {
+    "ID": 10034,
+    "name": "placeholder31",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10035": {
+    "ID": 10035,
+    "name": "placeholder32",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10036": {
+    "ID": 10036,
+    "name": "placeholder33",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10037": {
+    "ID": 10037,
+    "name": "placeholder34",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10038": {
+    "ID": 10038,
+    "name": "placeholder35",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10039": {
+    "ID": 10039,
+    "name": "placeholder36",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10040": {
+    "ID": 10040,
+    "name": "placeholder37",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10041": {
+    "ID": 10041,
+    "name": "placeholder38",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10042": {
+    "ID": 10042,
+    "name": "placeholder39",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10043": {
+    "ID": 10043,
+    "name": "placeholder40",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10044": {
+    "ID": 10044,
+    "name": "placeholder41",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10045": {
+    "ID": 10045,
+    "name": "placeholder42",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10046": {
+    "ID": 10046,
+    "name": "placeholder43",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10047": {
+    "ID": 10047,
+    "name": "placeholder44",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10048": {
+    "ID": 10048,
+    "name": "placeholder45",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10049": {
+    "ID": 10049,
+    "name": "placeholder46",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10050": {
+    "ID": 10050,
+    "name": "placeholder47",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10051": {
+    "ID": 10051,
+    "name": "placeholder48",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10052": {
+    "ID": 10052,
+    "name": "placeholder49",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10053": {
+    "ID": 10053,
+    "name": "placeholder50",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10054": {
+    "ID": 10054,
+    "name": "placeholder51",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10055": {
+    "ID": 10055,
+    "name": "placeholder52",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10056": {
+    "ID": 10056,
+    "name": "placeholder53",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10057": {
+    "ID": 10057,
+    "name": "placeholder54",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10058": {
+    "ID": 10058,
+    "name": "placeholder55",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10059": {
+    "ID": 10059,
+    "name": "placeholder56",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10060": {
+    "ID": 10060,
+    "name": "placeholder57",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10061": {
+    "ID": 10061,
+    "name": "placeholder58",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10062": {
+    "ID": 10062,
+    "name": "placeholder59",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10063": {
+    "ID": 10063,
+    "name": "placeholder60",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10064": {
+    "ID": 10064,
+    "name": "placeholder61",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10065": {
+    "ID": 10065,
+    "name": "placeholder62",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10066": {
+    "ID": 10066,
+    "name": "placeholder63",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10067": {
+    "ID": 10067,
+    "name": "placeholder64",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10068": {
+    "ID": 10068,
+    "name": "placeholder65",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10069": {
+    "ID": 10069,
+    "name": "placeholder66",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10070": {
+    "ID": 10070,
+    "name": "placeholder67",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10071": {
+    "ID": 10071,
+    "name": "placeholder68",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10072": {
+    "ID": 10072,
+    "name": "placeholder69",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10073": {
+    "ID": 10073,
+    "name": "placeholder70",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10074": {
+    "ID": 10074,
+    "name": "placeholder71",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10075": {
+    "ID": 10075,
+    "name": "placeholder72",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10076": {
+    "ID": 10076,
+    "name": "placeholder73",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10077": {
+    "ID": 10077,
+    "name": "placeholder74",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10078": {
+    "ID": 10078,
+    "name": "placeholder75",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10079": {
+    "ID": 10079,
+    "name": "placeholder76",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10080": {
+    "ID": 10080,
+    "name": "placeholder77",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10081": {
+    "ID": 10081,
+    "name": "placeholder78",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10082": {
+    "ID": 10082,
+    "name": "placeholder79",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10083": {
+    "ID": 10083,
+    "name": "placeholder80",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10084": {
+    "ID": 10084,
+    "name": "placeholder81",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10085": {
+    "ID": 10085,
+    "name": "placeholder82",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10086": {
+    "ID": 10086,
+    "name": "placeholder83",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10087": {
+    "ID": 10087,
+    "name": "placeholder84",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10088": {
+    "ID": 10088,
+    "name": "placeholder85",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10089": {
+    "ID": 10089,
+    "name": "placeholder86",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10090": {
+    "ID": 10090,
+    "name": "placeholder87",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10091": {
+    "ID": 10091,
+    "name": "placeholder88",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10092": {
+    "ID": 10092,
+    "name": "placeholder89",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10093": {
+    "ID": 10093,
+    "name": "placeholder90",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10094": {
+    "ID": 10094,
+    "name": "placeholder91",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10095": {
+    "ID": 10095,
+    "name": "placeholder92",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10096": {
+    "ID": 10096,
+    "name": "placeholder93",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10097": {
+    "ID": 10097,
+    "name": "placeholder94",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10098": {
+    "ID": 10098,
+    "name": "placeholder95",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10099": {
+    "ID": 10099,
+    "name": "placeholder96",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10100": {
+    "ID": 10100,
+    "name": "placeholder97",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10101": {
+    "ID": 10101,
+    "name": "placeholder98",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10102": {
+    "ID": 10102,
+    "name": "placeholder99",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10103": {
+    "ID": 10103,
+    "name": "placeholder100",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10104": {
+    "ID": 10104,
+    "name": "placeholder101",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10105": {
+    "ID": 10105,
+    "name": "placeholder102",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10106": {
+    "ID": 10106,
+    "name": "placeholder103",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10107": {
+    "ID": 10107,
+    "name": "placeholder104",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10108": {
+    "ID": 10108,
+    "name": "placeholder105",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10109": {
+    "ID": 10109,
+    "name": "placeholder106",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10110": {
+    "ID": 10110,
+    "name": "placeholder107",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  },
+  "10111": {
+    "ID": 10111,
+    "name": "placeholder108",
+    "cost": 0,
+    "damage": 0,
+    "knockback": 0,
+    "velocity": 0,
+    "effect": "pass",
+    "uses": 5
+  }
+}

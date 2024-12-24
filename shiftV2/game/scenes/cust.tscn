@@ -1,0 +1,62 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://custScreen.gd" type="Script" id=1]
+[ext_resource path="res://sprites/assets/OK.png" type="Texture" id=2]
+[ext_resource path="res://scenes/attackicons.tscn" type="PackedScene" id=3]
+[ext_resource path="res://scenes/curser.tscn" type="PackedScene" id=4]
+
+[node name="cust" type="Node2D"]
+pause_mode = 2
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_horizontal_guides_": [ -38.0, -64.0 ]
+}
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="placeholder" type="ColorRect" parent="CanvasLayer"]
+margin_left = 11.0
+margin_top = 17.0
+margin_right = 136.0
+margin_bottom = 144.0
+color = Color( 0.494118, 0, 0, 1 )
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
+margin_left = 29.0
+margin_top = 22.0
+margin_right = 100.0
+margin_bottom = 93.0
+
+[node name="curser" parent="CanvasLayer" instance=ExtResource( 4 )]
+position = Vector2( 23, 103 )
+
+[node name="Sprite" type="Sprite" parent="CanvasLayer"]
+position = Vector2( 156, 109 )
+texture = ExtResource( 2 )
+
+[node name="handOption" type="Node2D" parent="CanvasLayer"]
+position = Vector2( 132, 109 )
+
+[node name="attackicons" parent="CanvasLayer/handOption" instance=ExtResource( 3 )]
+position = Vector2( -110, -5 )
+
+[node name="attackicons2" parent="CanvasLayer/handOption" instance=ExtResource( 3 )]
+position = Vector2( -85, -5 )
+
+[node name="attackicons3" parent="CanvasLayer/handOption" instance=ExtResource( 3 )]
+position = Vector2( -61, -5 )
+
+[node name="attackicons4" parent="CanvasLayer/handOption" instance=ExtResource( 3 )]
+position = Vector2( -37, -5 )
+
+[node name="attackicons5" parent="CanvasLayer/handOption" instance=ExtResource( 3 )]
+position = Vector2( -103, 17 )
+
+[node name="attackicons6" parent="CanvasLayer/handOption" instance=ExtResource( 3 )]
+position = Vector2( -78, 17 )
+
+[node name="attackicons7" parent="CanvasLayer/handOption" instance=ExtResource( 3 )]
+position = Vector2( -54, 17 )
+
+[node name="attackicons8" parent="CanvasLayer/handOption" instance=ExtResource( 3 )]
+position = Vector2( -30, 17 )
